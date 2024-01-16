@@ -17,8 +17,8 @@ I am very fortunate to be advised by [Prof. Rui Yan] of [ALOHA Lab](https://aloh
 Education
 ------
 <ul>
-  <li>master's student in Gaoling School of Artificial Intelligence (GSAI), Renmin University of China. 1</li>
-  <li>undergraduate student in School of Architecture and Urban PlanningChongqing University, Chongqing University. 2</li>
+  <li>master's student in Gaoling School of Artificial Intelligence (GSAI), Renmin University of China. </li>
+  <li>undergraduate student in School of Architecture and Urban PlanningChongqing University, Chongqing University. </li>
 </ul>
 
 Publication
