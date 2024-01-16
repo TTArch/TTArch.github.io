@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tan Tao/RUC"
+title: "Tao Tan/RUC"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
