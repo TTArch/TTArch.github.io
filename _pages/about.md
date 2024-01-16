@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year graduate student from [Gaoling School of Artificial Intelligence (GSAI)](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interest includes natural language processing, autonomous agent.
+I'm a first-year master's student from [Gaoling School of Artificial Intelligence (GSAI)](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interest includes natural language processing, autonomous agent.
 
 I am very fortunate to be advised by [Prof. Rui Yan] of ALOHA Lab.
 
