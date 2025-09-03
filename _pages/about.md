@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tao Tan - Renmin University of China"
+title: "Tao Tan"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Master's student at the [Gaoling School of Artificial Intelligence (GSAI)](https://ai.ruc.edu.cn/), [Renmin University of China](https.www.ruc.edu.cn/), where I am a member of the [ALOHA Lab](https://aloha.show/) advised by Prof. [Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=zh-CN).
 
-My research interests lie at the intersection of **Natural Language Processing** and **Autonomous Agents**, with a focus on building intelligent systems that can understand, reason, and interact with the world.
+My research interests lie at the intersection of **Natural Language Processing**, with a focus on building intelligent systems that can understand, reason, and interact with the world.
 
 ## News
 *   **[January, 2025]** Two papers were accepted to WWW 2025.
